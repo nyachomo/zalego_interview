@@ -10,4 +10,4 @@
 
 DIRECTORY STRUCTURE
 -------------------
-Database_cinfig folder cotain the database file. Import the file and just run the project at localhost
+Database_config folder cotain the database file. Import the file and just run the project at localhost
